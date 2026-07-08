@@ -445,12 +445,6 @@ The AI chatbot automatically provides **bilingual responses** (English + Marathi
 
 ---
 
-## 👥 Contributors
-
-Built as a Mini Project for Mobile Application Development (MAD).
-
----
-
 ## 📄 License
 
 This project is built for academic and educational purposes.

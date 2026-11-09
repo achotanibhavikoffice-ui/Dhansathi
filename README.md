@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
     <img src="https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
     <img src="https://img.shields.io/badge/AI-Groq%20LLaMA%203.3-FF6F00?logo=meta&logoColor=white" alt="Groq AI">
+    <a href="https://huggingface.co/spaces/achotanibhavikoffice-ui/dhansathi-demo"><img src="https://img.shields.io/badge/Live%20Demo-Hugging%20Face%20Spaces-FFD21E?logo=huggingface&logoColor=black" alt="Live Demo on Hugging Face"></a>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7670799"><img src="https://img.shields.io/badge/SSRN-Preprint%207670799-blue" alt="SSRN: 7670799"></a>
     <a href="https://orcid.org/0009-0006-3098-6175"><img src="https://img.shields.io/badge/ORCID-0009--0006--3098--6175-A6CE39?logo=orcid&logoColor=white" alt="ORCID: 0009-0006-3098-6175"></a>
     <img src="https://img.shields.io/badge/Database-Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase">

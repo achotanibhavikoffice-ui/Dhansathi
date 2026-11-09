@@ -9,6 +9,8 @@
     <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
     <img src="https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
     <img src="https://img.shields.io/badge/AI-Groq%20LLaMA%203.3-FF6F00?logo=meta&logoColor=white" alt="Groq AI">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7670799"><img src="https://img.shields.io/badge/SSRN-Preprint%207670799-blue" alt="SSRN: 7670799"></a>
+    <a href="https://orcid.org/0009-0006-3098-6175"><img src="https://img.shields.io/badge/ORCID-0009--0006--3098--6175-A6CE39?logo=orcid&logoColor=white" alt="ORCID: 0009-0006-3098-6175"></a>
     <img src="https://img.shields.io/badge/Database-Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase">
     <img src="https://img.shields.io/badge/Local%20DB-Room-00796B" alt="Room">
   </p>
@@ -442,6 +444,31 @@ DhanSathi supports three languages across the app and AI responses:
 | 🇮🇳 Marathi | `marathi` | AI responses, chatbot, schemes data, voice transaction parsing |
 
 The AI chatbot automatically provides **bilingual responses** (English + Marathi) for maximum accessibility. Voice transaction parsing supports natural language input in all three languages.
+
+---
+
+## 📄 Research Manuscript & Citation
+
+DhanSathi is an academic research and software engineering initiative developed by **Bhavik Achotani** (*Department of Information Technology, Thadomal Shahani Engineering College, University of Mumbai*).
+
+- **Research Manuscript (SSRN Preprint):** [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7670799](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7670799)
+- **Author ORCID:** [https://orcid.org/0009-0006-3098-6175](https://orcid.org/0009-0006-3098-6175)
+
+### Citation
+
+If you use DhanSathi's offline-first architecture, bilingual pipeline, or deterministic RAG design in your research, please cite:
+
+```bibtex
+@article{achotani2026dhansathi,
+  author    = {Achotani, Bhavik},
+  author+an = {1=orcid:0009-0006-3098-6175},
+  title     = {DhanSathi: Offline-First Multilingual Agricultural Intelligence and Deterministic RAG Architecture on Low-Resource Mobile Edges},
+  journal   = {SSRN Electronic Journal},
+  year      = {2026},
+  doi       = {10.2139/ssrn.7670799},
+  url       = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7670799}
+}
+```
 
 ---
 
